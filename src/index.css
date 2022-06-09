@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
+*{
+  margin: 0;
+}
+body {
+  height: 100%;
+  margin: 0;
+  font-family: "Raleway", serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-image: url("https://img.freepik.com/free-photo/navy-blue-concrete-wall-with-scratches_53876-102666.jpg?w=996&t=st=1654682090~exp=1654682690~hmac=9bedaf5f6554c7eee03ecece24efd41d3481f154aa39826375e4e31611c561c2"); */
+  /* background-image: linear-gradient(to left, rgb(27 20 41), rgb(20 15 35)); */
+  background-position: center;
+  background-size: cover;
+}
+
+
+
