@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/personalportfolio/static/css/main.26a993f6.chunk.css",
+    "main.js": "/personalportfolio/static/js/main.2d16e372.chunk.js",
+    "main.js.map": "/personalportfolio/static/js/main.2d16e372.chunk.js.map",
+    "runtime-main.js": "/personalportfolio/static/js/runtime-main.8a847133.js",
+    "runtime-main.js.map": "/personalportfolio/static/js/runtime-main.8a847133.js.map",
+    "static/css/2.d6dc494e.chunk.css": "/personalportfolio/static/css/2.d6dc494e.chunk.css",
+    "static/js/2.ecfc481f.chunk.js": "/personalportfolio/static/js/2.ecfc481f.chunk.js",
+    "static/js/2.ecfc481f.chunk.js.map": "/personalportfolio/static/js/2.ecfc481f.chunk.js.map",
+    "static/js/3.8b8a3830.chunk.js": "/personalportfolio/static/js/3.8b8a3830.chunk.js",
+    "static/js/3.8b8a3830.chunk.js.map": "/personalportfolio/static/js/3.8b8a3830.chunk.js.map",
+    "index.html": "/personalportfolio/index.html",
+    "static/css/2.d6dc494e.chunk.css.map": "/personalportfolio/static/css/2.d6dc494e.chunk.css.map",
+    "static/css/main.26a993f6.chunk.css.map": "/personalportfolio/static/css/main.26a993f6.chunk.css.map",
+    "static/js/2.ecfc481f.chunk.js.LICENSE.txt": "/personalportfolio/static/js/2.ecfc481f.chunk.js.LICENSE.txt",
+    "static/media/Covider.c5ae7888.png": "/personalportfolio/static/media/Covider.c5ae7888.png",
+    "static/media/about.663be9ad.svg": "/personalportfolio/static/media/about.663be9ad.svg",
+    "static/media/amazon.b15d599a.png": "/personalportfolio/static/media/amazon.b15d599a.png",
+    "static/media/article.58f21be1.png": "/personalportfolio/static/media/article.58f21be1.png",
+    "static/media/event.abb6c3d9.png": "/personalportfolio/static/media/event.abb6c3d9.png",
+    "static/media/feelingProud.61bf63c3.svg": "/personalportfolio/static/media/feelingProud.61bf63c3.svg",
+    "static/media/logo.a4f4809e.png": "/personalportfolio/static/media/logo.a4f4809e.png",
+    "static/media/netflix.32a6918a.png": "/personalportfolio/static/media/netflix.32a6918a.png",
+    "static/media/style.css": "/personalportfolio/static/media/pre.e56a23b2.svg",
+    "static/media/tickle.5db67c72.png": "/personalportfolio/static/media/tickle.5db67c72.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a847133.js",
+    "static/css/2.d6dc494e.chunk.css",
+    "static/js/2.ecfc481f.chunk.js",
+    "static/css/main.26a993f6.chunk.css",
+    "static/js/main.2d16e372.chunk.js"
+  ]
+}
