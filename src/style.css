@@ -782,7 +782,7 @@ html {
   color: blue;
 }
 section {
-  background-image: url("https://img.freepik.com/free-photo/navy-blue-concrete-wall-with-scratches_53876-102666.jpg?w=996&t=st=1654682090~exp=1654682690~hmac=9bedaf5f6554c7eee03ecece24efd41d3481f154aa39826375e4e31611c561c2");
+  background-image: url(./Assets/bgimg.svg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
