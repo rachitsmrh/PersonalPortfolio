@@ -10,6 +10,7 @@ import Tickle from "../../Assets/images/tickle.png";
 import Event from "../../Assets/images/event.png";
 import Netflix from "../../Assets/images/netflix.png";
 import Amazon from "../../Assets/images/amazon.png";
+import Bulk from "../../Assets/images/bulk.png";
 import Article from "../../Assets/images/article.png";
 
 function Projects() {
@@ -25,6 +26,14 @@ function Projects() {
           <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
             <Col md={4} className="project-card">
               <ProjectCard
+                imgPath={Bulk}
+                title="Bulk certificate generator"
+                description="A platform that generates bulk certificates for all the input names for the given template"
+                link="https://github.com/rachitsmrh/COVID19"
+              />
+            </Col>
+            <Col md={4} className="project-card">
+              <ProjectCard
                 imgPath={Covid}
                 title="Covider"
                 description="A platform that addressed all the current news, statistics of Covid 19 of more than 100+ countries
@@ -38,7 +47,7 @@ and the information and guidelines related to Covid 19"
                 title="Article Finder"
                 description="A platform where users can search relevant articles according to their interests and read a summary of those articles along with the original articles.
 "
-                link="https://github.com/rachitsmrh/ArticleFinder"
+                link="https://github.com/rachitsmrh/bulk-certificate-generate"
               />
             </Col>
 

@@ -154,7 +154,7 @@ html {
 .logo {
   width: 40px !important;
 }
-.head{
+.head {
   font-size: 1.5rem;
   font-weight: 900;
 }
@@ -208,9 +208,8 @@ html {
 .svg-container {
   display: flex;
   padding-top: 50px;
-  
 }
-.svg{
+.svg {
   height: 75%;
 }
 
@@ -265,10 +264,10 @@ html {
 
 .home-section {
   position: relative;
- 
-  padding-bottom: 30px !important;
+
+  padding-bottom: 200px !important;
   padding-top: 30px !important;
-  background-image: var(--section-background-color) !important;;
+  background-image: var(--section-background-color) !important;
 }
 
 .home-content {
@@ -288,18 +287,17 @@ html {
 }
 
 .main-name {
-  background-image: linear-gradient(43deg,#a162e8,#f7ce68 46%,#85ffbd);
+  background-image: linear-gradient(43deg, #a162e8, #f7ce68 46%, #85ffbd);
   -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
 }
 
-
-.Typewriter__wrapper {                          
+.Typewriter__wrapper {
   font-size: 2.2em !important;
   color: #afe1af !important;
   font-weight: 600 !important;
-}                                                                                                                   ``
-.Typewriter__cursor {
+}
+`` .Typewriter__cursor {
   font-size: 2.4em !important;
   color: #afe1af !important;
 }
@@ -327,14 +325,11 @@ html {
   }
 }
 
-
-
 .home-about-description {
   color: white !important;
   padding-top: 100px !important;
   padding-bottom: 20px !important;
   text-align: center;
-
 }
 
 .home-about-body {
@@ -479,7 +474,6 @@ html {
   box-shadow: 0 4px 4px 5px #9cace7 !important;
 }
 
-
 .card-img-top {
   padding: 20px !important;
   opacity: 0.8 !important;
@@ -487,13 +481,13 @@ html {
   height: 250px;
 }
 
-.card-text{
-  height:9rem;
+.card-text {
+  height: 9rem;
 }
 .btn-primary {
   color: #fff !important;
   background-color: #9fadde !important;
-  border-color: #9fadde!important;
+  border-color: #9fadde !important;
 }
 
 .btn-primary:hover {
@@ -707,7 +701,7 @@ html {
 .fork-btn-inner:hover {
   transform: translateY(-2px) !important;
   background-color: #91a3e3 !important;
-  border-color: #91a3e3  !important;
+  border-color: #91a3e3 !important;
 }
 .fork-btn-inner::after {
   display: none !important;
@@ -777,13 +771,9 @@ html {
   color: #82e1ff;
 }
 
-
-
-
 .footer-paralax {
   padding: 4rem 0 0 0;
 }
-
 
 .contact1 .phone {
   color: blue;
@@ -791,19 +781,19 @@ html {
 .contact1 .envelope {
   color: blue;
 }
-section{
+section {
   background-image: url("https://img.freepik.com/free-photo/navy-blue-concrete-wall-with-scratches_53876-102666.jpg?w=996&t=st=1654682090~exp=1654682690~hmac=9bedaf5f6554c7eee03ecece24efd41d3481f154aa39826375e4e31611c561c2");
   background-position: center;
   background-size: cover;
- background-repeat: no-repeat;
+  background-repeat: no-repeat;
 }
-@media (min-width:768px ) and (max-width:1200px){
-  .home-section{
+@media (min-width: 768px) and (max-width: 1200px) {
+  .home-section {
     height: 100vh;
   }
 }
-@media (min-width:768px ) and (max-width:992px){
-  .card-text{
+@media (min-width: 768px) and (max-width: 992px) {
+  .card-text {
     height: 14rem;
   }
 }
